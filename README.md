@@ -14,4 +14,6 @@ They will be able to communicate with chat as like IEEE Mentoring program.But wi
 
 In addition, in the case of project development, a special study program will be opened with a few people to establish a project team and project development.
 
+Youtube Promo Video : https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be
+
 We say Share Experience : SharEx !
