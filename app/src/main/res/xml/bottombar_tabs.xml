@@ -1,0 +1,37 @@
+<tabs>
+    <tab
+        activeColor="@color/colorPrimary"
+        icon="@drawable/ic_homeorange"
+        id="@+id/home"
+        inActiveColor="@color/colorPrimary"
+        title="Home" />
+
+
+    <tab
+        activeColor="@color/colorPrimary"
+        icon="@drawable/ic_book1"
+        id="@+id/partners"
+        inActiveColor="@color/colorPrimary"
+        title="Watch Trip" />
+    <tab
+        activeColor="@color/colorPrimary"
+        icon="@drawable/ic_activity"
+        id="@+id/transaction"
+        inActiveColor="@color/colorPrimary"
+        title="My Booking" />
+
+    <tab
+        activeColor="@color/colorPrimary"
+        icon="@drawable/ic_statistics"
+        id="@+id/account"
+        inActiveColor="@color/colorPrimary"
+        title="Account" />
+
+    <tab
+        activeColor="@color/colorPrimary"
+        icon="@drawable/ic_account1"
+        id="@+id/support"
+        inActiveColor="@color/colorPrimary"
+        title="Account" />
+
+</tabs>

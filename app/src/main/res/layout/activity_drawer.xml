@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.NavigationView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_view"
+    android:layout_width="96dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:fitsSystemWindows="true">
+
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="96dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:onClick="profile"
+            android:src="@drawable/cn" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginBottom="31dp"
+            android:background="#c8c8c8" />
+
+        <ImageView
+            android:id="@+id/homep"
+            android:layout_width="27dp"
+            android:layout_height="21.5dp"
+            android:layout_gravity="center"
+            android:onClick="main"
+            android:src="@drawable/activity" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginBottom="31dp"
+            android:background="#c8c8c8"
+            android:onClick="homep" />
+
+        <ImageView
+            android:id="@+id/chat"
+            android:layout_width="27dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center"
+            android:onClick="chat"
+            android:src="@drawable/chat"
+
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginBottom="31dp"
+            android:background="#c8c8c8" />
+
+        <ImageView
+            android:id="@+id/mentors"
+            android:layout_width="39dp"
+            android:layout_height="26dp"
+            android:layout_gravity="center"
+            android:onClick="mentors"
+            android:src="@drawable/user" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginBottom="31dp"
+            android:background="#c8c8c8" />
+
+        <ImageView
+            android:id="@+id/settings"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_gravity="center"
+            android:src="@drawable/setting" />
+
+
+    </LinearLayout>
+
+
+</android.support.design.widget.NavigationView>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="99dp"
+        android:layout_height="154dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="17dp"
+        app:srcCompat="@drawable/a4"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <TextView
+        android:id="@+id/k_aciklama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="79dp"
+        android:layout_marginEnd="59dp"
+        android:layout_toEndOf="@+id/imageView2"
+        android:text="Business Leader, Entrepreneur \n (1964–)"
+        android:textColor="#fff"
+        tools:layout_editor_absoluteX="373dp"
+        tools:layout_editor_absoluteY="293dp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="48dp"
+        android:layout_toEndOf="@+id/imageView2"
+        android:text="Jeff Bezos"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="362dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:text="Entrepreneur and e-commerce pioneer Jeff Bezos was born on January 12, 1964, in Albuquerque, New Mexico. Bezos had an early love of computers and studied computer science and electrical engineering at Princeton University. After graduation he worked on Wall Street, and in 1990 he became the youngest senior vice president at the investment firm D.E. Shaw. Four years later, he quit his lucrative job to open Amazon.com, a virtual bookstore that became one of the internet's biggest success stories. In 2013, Bezos purchased The Washington Post in a $250 million deal. His successful business ventures have made him one of the richest people in the world."
+        android:textColor="#fff" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="148dp"
+        android:text="He shares his experience about entrepreneurship!"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/bt_program"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="77dp"
+        android:background="@color/colorPrimary"
+        android:text="Show Mentor's Program" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="48dp"
+        android:layout_toEndOf="@+id/name"
+        app:srcCompat="@android:drawable/stat_notify_more" />
+</RelativeLayout>
