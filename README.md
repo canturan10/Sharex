@@ -1,4 +1,6 @@
 # Sharex
+![](app/src/main/res/drawable/sharex.png)
+
 
 We always wonder how they successful people have achieved their success. We'd love to know what it has done to come to this level
 
