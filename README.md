@@ -1,6 +1,6 @@
 # Sharex
 
-![](app/src/main/res/drawable/sharex.png
+![](app/src/main/res/drawable/sharex.png)
 
 **App File Name:** Sharex
 
