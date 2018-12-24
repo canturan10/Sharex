@@ -1,24 +1,21 @@
 # Sharex
-![](app/src/main/res/drawable/sharex.png)
 
+![](app/src/main/res/drawable/sharex.png
 
-We always wonder how they successful people have achieved their success. We'd love to know what it has done to come to this level
+**App File Name:** Sharex
 
-What if we say more than ieee mentoring program? They present their experience as a study program!
+**Team Name:** MadMates
 
-An application designed to get support in their lives by people who have reached the desired position of people's ideals.
+**Short Description:** 
 
-Within the application, people will be able to share their specific study programs.
+**Licence:** MIT License - Copyright (c) 2018
 
-Will be able to follow the work programs of the people who they take their cue from and apply their recommendations
+**Country:** TURKEY
 
-They will be able to communicate with chat as like IEEE Mentoring program.But with a difference, If they can apply the program they follow up to a certain level, they can communicate.
-
-In addition, in the case of project development, a special study program will be opened with a few people to establish a project team and project development.
-
-Youtube Promo Video : https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be
-
+**Author’s:** 
+ - [Oğuzcan TURAN](https://github.com/canturan10)
+ - [Meva Akkaya](https://github.com/akkayameva)
+ - [Dilek Dilşah Özkan](https://github.com/dilekdilsah)
+# Youtube Promo Video
 [![](https://i.imgur.com/T15iaT1.jpg)](https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be "ShareEx ¦ Share Experience (Promo)")
 
-
-We say Share Experience : SharEx !
