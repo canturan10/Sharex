@@ -18,4 +18,7 @@ In addition, in the case of project development, a special study program will be
 
 Youtube Promo Video : https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be
 
+[![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/WpyZ4JxtW50/hqdefault.jpg)](https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be)
+
+
 We say Share Experience : SharEx !
