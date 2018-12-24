@@ -6,7 +6,7 @@
 
 **Team Name:** MadMates
 
-**Short Description:** 
+**Short Description:** SharEx is app to get support in their lives by people who have reached the desired position of people's ideals.
 
 **Licence:** [MIT License - Copyright (c) 2018](/LICENSE)
 
