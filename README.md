@@ -18,7 +18,7 @@ In addition, in the case of project development, a special study program will be
 
 Youtube Promo Video : https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be
 
-[![Everything Is AWESOME](https://hizliresim.com/jg15br)](https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be "ShareEx ¦ Share Experience (Promo)")
+[![Sharex](https://imgur.com/T15iaT1)](https://www.youtube.com/watch?v=WpyZ4JxtW50&feature=youtu.be "ShareEx ¦ Share Experience (Promo)")
 
 
 We say Share Experience : SharEx !
