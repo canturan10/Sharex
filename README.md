@@ -8,7 +8,7 @@
 
 **Short Description:** 
 
-**Licence:** MIT License - Copyright (c) 2018
+**Licence:** [MIT License - Copyright (c) 2018](Sharex/LICENSE)
 
 **Country:** TURKEY
 
