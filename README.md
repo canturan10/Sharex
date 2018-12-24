@@ -2,7 +2,8 @@
 
 ![](app/src/main/res/drawable/sharex.png)
 
-**App File Name:** Sharex
+**App File Name:** [Sharex.apk](/sharex.apk)
+      
 
 **Team Name:** MadMates
 
